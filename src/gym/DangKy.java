@@ -8,6 +8,6 @@ package gym;
  *
  * @author trong
  */
-public class NewClass {
+public class DangKy {
     
 }
